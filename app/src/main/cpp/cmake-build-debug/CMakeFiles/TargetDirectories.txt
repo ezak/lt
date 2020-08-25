@@ -1,0 +1,3 @@
+/home/izak/random/lt/app/src/main/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/izak/random/lt/app/src/main/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/izak/random/lt/app/src/main/cpp/cmake-build-debug/CMakeFiles/client_test.dir
